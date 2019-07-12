@@ -21,3 +21,6 @@ _你 **可以** 将它们联合起来使用_
 * Item 2
   * Item 2a
   * Item 2b
+如果你希望嵌入一张图片，可以这么做：
+
+![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png)
